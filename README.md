@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Golang Backend Developer from Kazakhstan</h3>
 
 
-- 🌱 I’m currently learning **Golang, SQL, HTML5 and CSS3**
+- 🌱 I’m currently learning **Golang, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **back-end projects**
 
